@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-7-heaven/",
+    "build": "vite build --base=/fs116_html-css_YurchenkoMaxx/",
     "preview": "vite preview"
   },
   "devDependencies": {
